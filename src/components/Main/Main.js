@@ -1,21 +1,16 @@
 import React from 'react';
 import './Main.css';
 
-import Header from "../Header/Header";
-import Footer from '../Footer/Footer.js';
+import AddTask from "../AddTask/AddTask";
+import CardList from '../CardList/CardList.js';
 
 function Main(props) {
 
     return (
-        <>
-            <Header />
-            <main className="content">
-
-            </main>
-
-            <Footer/>
-        </>
-
+        <main className="content">
+            <AddTask/>
+            <CardList cards={props.cards}/>
+        </main>
     );
 }
 
