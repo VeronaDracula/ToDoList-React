@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToDoList-React/static/css/main.ce653704.css",
+    "main.js": "/ToDoList-React/static/js/main.687d8488.js",
+    "static/js/787.34d05ddd.chunk.js": "/ToDoList-React/static/js/787.34d05ddd.chunk.js",
+    "static/media/logo.svg": "/ToDoList-React/static/media/logo.6352eb8a465e7b2a01cb4df76ee037ad.svg",
+    "static/media/enter-hover.svg": "/ToDoList-React/static/media/enter-hover.fe4f0e7ab71bbf8c0a36.svg",
+    "static/media/enter.svg": "/ToDoList-React/static/media/enter.f9574d1c7143fc1b770b.svg",
+    "static/media/edit.svg": "/ToDoList-React/static/media/edit.8746469b2d50006607e9.svg",
+    "static/media/add-hover.svg": "/ToDoList-React/static/media/add-hover.e7a4d3b81ba94f33f50c.svg",
+    "static/media/add.svg": "/ToDoList-React/static/media/add.ff85f8927e2f99d31cfb.svg",
+    "index.html": "/ToDoList-React/index.html",
+    "static/media/delete.svg": "/ToDoList-React/static/media/delete.e5a7cadea74a2411ca50.svg",
+    "main.ce653704.css.map": "/ToDoList-React/static/css/main.ce653704.css.map",
+    "main.687d8488.js.map": "/ToDoList-React/static/js/main.687d8488.js.map",
+    "787.34d05ddd.chunk.js.map": "/ToDoList-React/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce653704.css",
+    "static/js/main.687d8488.js"
+  ]
+}
